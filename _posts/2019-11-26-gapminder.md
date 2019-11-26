@@ -5,7 +5,7 @@ published: true
 tags: [dataviz, altair, gapminder]
 excerpt: "Analyzing Gapminder data using Altair"
 altair-loader:
-  gapminder-chart: "charts/gapminderChart.json"
+  gapminder-chart: "charts/gapminderAltairChart.json"
 toc: true
 toc_sticky: true
 ---
